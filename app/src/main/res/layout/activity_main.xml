@@ -13,14 +13,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/XC" />
+        android:src="@drawable/crosscountry" />
 
     <ImageView
-        android:id="@+id/background_image"
+        android:id="@+id/backgroundimage"
         android:layout_width="500dp"
         android:layout_height="500dp"
         android:paddingTop="200dp"
-        android:src="@drawable/Gull_Lake" />
+        android:src="@drawable/gulllake" />
 
     <TextView
         android:id="@+id/birthday"
